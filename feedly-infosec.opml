@@ -18,6 +18,7 @@
             <outline type="rss" text="Lucius on Security" title="Lucius on Security" xmlUrl="http://luciusonsecurity.blogspot.com/feeds/posts/default" htmlUrl="http://luciusonsecurity.blogspot.com/"/>
             <outline type="rss" text="Andrew Hay" title="Andrew Hay" xmlUrl="https://www.andrewhay.ca/feed" htmlUrl="https://www.andrewhay.ca"/>
             <outline type="rss" text="Dark Reading:" title="Dark Reading:" xmlUrl="https://www.darkreading.com/rss_simple.asp" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="Troy Hunt's Blog" title="Troy Hunt's Blog" xmlUrl="http://feeds.feedburner.com/TroyHunt" htmlUrl="https://www.troyhunt.com/"/>
             <outline type="rss" text="Uncommon Sense Security" title="Uncommon Sense Security" xmlUrl="http://blog.uncommonsensesecurity.com/feeds/posts/default" htmlUrl="http://blog.uncommonsensesecurity.com/"/>
             <outline type="rss" text="danielmiessler.com" title="danielmiessler.com" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com"/>
             <outline type="rss" text="RSS | Veracode Blog" title="RSS | Veracode Blog" xmlUrl="http://www.veracode.com/blog/feed/" htmlUrl="http://www.veracode.com/blog"/>
